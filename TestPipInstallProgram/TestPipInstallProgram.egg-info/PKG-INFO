@@ -26,7 +26,7 @@ License-File: LICENSE
 
     2. Use functions:
         In python:
-            import simple_calc
+            from TestPipInstallProgram import simple_calc
 
         Four functions:
             -------
